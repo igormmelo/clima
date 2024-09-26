@@ -1,4 +1,5 @@
-<h1>Why did I choose this project? 📄</h1>
+<div>
+  <h1>Why did I choose this project? 📄</h1>
 <p>I chose this project because I didn't have any costs with the API and it was the first project that used an API</p>
 
 <h1>What was the biggest challenge?⛰️</h1>
@@ -27,6 +28,7 @@
 
 
 https://github.com/user-attachments/assets/8d973ef2-2242-45ad-b332-11b9f3610b30
+</div>
 
 
 
